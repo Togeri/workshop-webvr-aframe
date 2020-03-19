@@ -1,18 +1,25 @@
-# WebVR Micro Learning
+# WebVR con A-Frame workshop
 
-Materiales de la Micro Learning de Realidad Virtual Web
+Materiales workshop Realidad Virtual Web con [A-Frame](https://aframe.io/) @ Ironhack Madrid (recurrente)
 
 ## Instalación
 
-Ejecutar los archivos sobre un servidor local (recomendado [live-server](https://www.npmjs.com/package/live-server))
+No requiere instalación.
+
+## Ejecución
+
+Ejecutar los archivos sobre un servidor local (recomendado [live-server](https://www.npmjs.com/package/live-server)).
 
 ## Contenidos
-- PDF explicativo con escenas, enlaces y recursos externos.
-- Escenas: entidades básicas, entorno de [A-frame enviroment](https://github.com/supermedium/aframe-environment-component), escena con modelos de [Sketchfab](https://sketchfab.com/feed), interacción programática...
-- Directorio con texturas
+- PDF explicativo.
+- Escenas: entidades básicas, formas, texturas, entornos de [A-frame enviroment](https://github.com/supermedium/aframe-environment-component), escena con modelos de [Sketchfab](https://sketchfab.com/feed), interacción por ratón/fuse/programática...
+- Directorio con texturas.
+- Directorio con modelos externos.
 
 ## Recursos externos
+- Aframe showcase: https://webvr.directory/
+- Entornos: https://github.com/supermedium/aframe-environment-component
+- Aframe extras: https://github.com/donmccurdy/aframe-extras
 - Colección de componentes de A-Frame: https://github.com/supermedium/superframe
 - Shooter kit: https://github.com/supermedium/aframe-super-shooter-kit
-- Entornos: https://github.com/supermedium/aframe-environment-component
-- Aframe showcase: https://webvr.directory/
+
