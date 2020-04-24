@@ -2,7 +2,7 @@
 
 Materiales workshop Realidad Virtual Web con [A-Frame](https://aframe.io/) @ Ironhack Madrid (recurrente)
 
-Vídeo del webinar de Aframe [en este enlace](https://www.youtube.com/watch?v=YITd_MFskjU) | 45 min - ene. 2020
+Vídeo del webinar de Aframe [en este enlace](https://youtu.be/YITd_MFskjU?t=594) | 45 min - ene. 2020
 
 ## Instalación
 
