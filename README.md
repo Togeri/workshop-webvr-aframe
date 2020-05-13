@@ -39,6 +39,7 @@ Ejecutar los archivos sobre un servidor local (recomendado [live-server](https:/
 
 ### Recursos externos (componentes)
 - Particles: https://www.npmjs.com/package/aframe-particle-system-component
+- Orbit controls: https://tizzle.github.io/aframe-orbit-controls-component/
 
 ### Frameworks
 - Aframe React: https://www.npmjs.com/package/aframe-react
