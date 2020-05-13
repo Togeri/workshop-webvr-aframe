@@ -44,4 +44,7 @@ Ejecutar los archivos sobre un servidor local (recomendado [live-server](https:/
 ### Frameworks
 - Aframe React: https://www.npmjs.com/package/aframe-react
 
+### Realidad aumentada
+- Aframe AR: https://aframe.io/blog/arjs/
+
 
